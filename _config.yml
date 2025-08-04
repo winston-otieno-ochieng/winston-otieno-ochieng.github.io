@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Winston Ochieng Otieno
-email: winstoneo66@gmail.com
+title: Winston Otieno Ochieng
+gmail: winstoneo66@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Applying IT solutions to improveefficiency, decision-making, with a keen interest in bridging the gap between business
 operations and technology.
